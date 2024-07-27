@@ -1,0 +1,37 @@
+THIS LIST BELOW WAS GENERATE BY AI. MORE ABOUT THAT IN 'readme.md' OR 'guess.py'
+De'Aaron Fox # Black # Western # Sacramento Kings # True # No # Left # PG
+LeBron James # Black # Western # Los Angeles Lakers # True # Yes # Right # SF
+Stephen Curry # Black # Western # Golden State Warriors # True # Yes # Right # PG
+Giannis Antetokounmpo # Black # Eastern # Milwaukee Bucks # True # Yes # Right # PF
+Luka Doncic # White # Western # Dallas Mavericks # True # No # Right # PG
+Kevin Durant # Black # Western # Phoenix Suns # True # Yes # Right # SF
+Joel Embiid # Black # Eastern # Philadelphia 76ers # True # Yes # Right # C
+Nikola Jokic # White # Western # Denver Nuggets # True # Yes # Right # C
+Jimmy Butler # Black # Eastern # Miami Heat # True # No # Right # SF
+Jayson Tatum # White # Eastern # Boston Celtics # True # No # Right # SF
+James Harden # Black # Western # Los Angeles Clippers # True # No # Left # SG
+Damian Lillard # Black # Eastern # Milwaukee Bucks # True # No # Right # PG
+Kawhi Leonard # Black # Western # Los Angeles Clippers # True # Yes # Right # SF
+Anthony Davis # Black # Western # Los Angeles Lakers # True # No # Right # PF
+Kyrie Irving # Black # Western # Dallas Mavericks # True # No # Right # PG
+Zion Williamson # Black # Western # New Orleans Pelicans # True # No # Left # PF
+Trae Young # White # Eastern # Atlanta Hawks # True # No # Right # PG
+Ja Morant # Black # Western # Memphis Grizzlies # True # No # Right # PG
+Donovan Mitchell # Black # Eastern # Cleveland Cavaliers # True # No # Right # SG
+Bradley Beal # Black # Western # Phoenix Suns # True # No # Right # SG
+Devin Booker # Black # Western # Phoenix Suns # True # No # Right # SG
+Karl-Anthony Towns # Black # Western # Minnesota Timberwolves # True # No # Right # C
+Paul George # Black # Western # Los Angeles Clippers # True # No # Right # SF
+Bam Adebayo # Black # Eastern # Miami Heat # True # No # Right # C
+Brandon Ingram # Black # Western # New Orleans Pelicans # True # No # Right # SF
+Klay Thompson # Black # Western # Golden State Warriors # True # No # Right # SG
+Rudy Gobert # Black # Western # Minnesota Timberwolves # True # No # Right # C
+Pascal Siakam # Black # Eastern # Toronto Raptors # True # No # Right # PF
+Jaylen Brown # Black # Eastern # Boston Celtics # True # No # Right # SG
+Chris Paul # Black # Western # Golden State Warriors # True # No # Right # PG
+CJ McCollum # Black # Western # New Orleans Pelicans # True # No # Right # SG
+Jrue Holiday # Black # Eastern # Boston Celtics # True # No # Right # PG
+DeMar DeRozan # Black # Eastern # Chicago Bulls # True # No # Right # SF
+LaMelo Ball # Black # Eastern # Charlotte Hornets # True # No # Right # PG
+Draymond Green # Black # Western # Golden State Warriors # True # No # Right # PF
+Fred VanVleet # Black # Western # Houston Rockets # True # No # Right # PG
